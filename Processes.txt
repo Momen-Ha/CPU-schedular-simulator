@@ -1,0 +1,7 @@
+context-switch-time, time-quantom-for-RR
+15 4
+process-number arrivalTime burstTime
+1 0 5
+2 0 4
+3 0 2
+4 0 1
